@@ -1,0 +1,6 @@
+[submodule "search_l3s_search_srv"]
+	path = search_l3s_search_srv
+	url = https://github.com/Peng-LUH/search_l3s_search_srv.git
+[submodule "search_l3s_gateway"]
+	path = search_l3s_gateway
+	url = https://github.com/Peng-LUH/search_l3s_gateway.git
