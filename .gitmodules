@@ -4,3 +4,9 @@
 [submodule "search_l3s_gateway"]
 	path = search_l3s_gateway
 	url = https://github.com/Peng-LUH/search_l3s_gateway.git
+[submodule "search_l3s_aimeta_srv"]
+	path = search_l3s_aimeta_srv
+	url = git@github.com:Peng-LUH/search_l3s_aimeta_srv.git
+[submodule "search_l3s_recsys_srv"]
+	path = search_l3s_recsys_srv
+	url = git@github.com:Peng-LUH/search_l3s_recsys_srv.git
